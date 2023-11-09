@@ -1,6 +1,6 @@
 {
   "homepage": "https://GarvitKansal.github.io/flickr-photo-app",
-  "name": "flickr-photo-app",
+  "name": "flickr-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

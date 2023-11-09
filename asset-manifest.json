@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flickr-photo-app/static/css/main.0fc2cfac.css",
+    "main.js": "/flickr-photo-app/static/js/main.dc7a4710.js",
+    "static/js/787.9f440581.chunk.js": "/flickr-photo-app/static/js/787.9f440581.chunk.js",
+    "index.html": "/flickr-photo-app/index.html",
+    "main.0fc2cfac.css.map": "/flickr-photo-app/static/css/main.0fc2cfac.css.map",
+    "main.dc7a4710.js.map": "/flickr-photo-app/static/js/main.dc7a4710.js.map",
+    "787.9f440581.chunk.js.map": "/flickr-photo-app/static/js/787.9f440581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc2cfac.css",
+    "static/js/main.dc7a4710.js"
+  ]
+}
